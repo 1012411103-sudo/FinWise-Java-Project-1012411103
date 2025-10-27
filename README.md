@@ -58,10 +58,6 @@ npm or yarn
 
 Git
 
-Clone the Repository
-git clone https://github.com/your-username/finwise.git
-cd finwise
-
 Backend Setup
 cd backend
 ./mvnw spring-boot:run
